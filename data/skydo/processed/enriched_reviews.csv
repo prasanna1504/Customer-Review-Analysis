@@ -1,0 +1,425 @@
+platform,date,author,rating,review_text,source_url,sentiment,sentiment_reason,themes,specific_issue,feature_request,churn_risk,churn_reason,priority,priority_reason,action_item,key_insight,is_feature_request,is_bug_report,is_churn_signal,competitor_mentioned
+reddit,2026-05-16,Cool_Tackle2003,,"[For Hire] Need suggestions for working with foreign clients and accepting international payments Hi guys, I’m Vinit Sharma. I have around 1 year of experience in full-stack development as a freelancer, and now I really want to do something bigger — like working with foreign clients.
+
+But honestly, I don’t have much idea about how or where to start. I’ve heard about platforms like PayPal and Skydo for international payments, but I want to know if there are any better or more reliable options.
+
+Also, if anyone knows good platforms to find freelance work and the best payment systems for international clients, please comment below. It would really help me a lot 
+
+And if anyone is looking to hire a full-stack developer for freelance work or projects, feel free to connect with me. I’d be happy to share my portfolio and other details in DM. 🚀",https://reddit.com/r/freelance_forhire/comments/1teje4m/for_hire_need_suggestions_for_working_with/,,,,,,,,,,,,False,False,False,
+reddit,2026-05-12,ZenoSamaDBS,,"Best way to transfer Stocks sale proceeds from IBKR/Charles Schwab to Indian Bank accounts Hey all, I have stocks in Interactive brokers and Charles Schwab. I want to sell them and get money in my Indian accounts. What's the best way to do it? I think Skydo and Infinity are only for business payments purposes. Which Indian bank accounts are the best for this purpose? Looking forward to some advice here. Thank you!!",https://reddit.com/r/IndiaInvestments/comments/1taxsby/best_way_to_transfer_stocks_sale_proceeds_from/,,,,,,,,,,,,False,False,False,
+reddit,2026-05-10,Subha_xo,,"Prop firm trading &amp; Payout process in India What is the best legal and transparent way to recieve prop firm payouts in india ? Can I open a current bank account in my name and take payments there via Bank transfer or using cross border payments aggregator like Skydo by using Purpose code like P0802 ? Generally prop firms don't give any contract agreement, so what I'll use for proof of work ? And since I'm not sending any money outside India, I'm just remitting inward, what are the compliance ? Please discuss 🙏",https://reddit.com/r/TaxPlanning_India/comments/1t92pwj/prop_firm_trading_payout_process_in_india/,,,,,,,,,,,,False,False,False,
+reddit,2026-05-09,PlanSad1094,,"I calculated exactly how much PayPal, Wise, and bank wire cost vs Skydo on a $2,000 invoice. The difference is wild. Hey everyone, been freelancing with international clients for a while and always felt like something was off with my payments. Decided to actually sit down and do the math.
+
+
+
+Here's what I found on a \*\*$2,000 USD invoice\*\* (at ₹84/USD):
+
+
+
+| Platform | Fee | You receive (USD) | You receive (INR) |
+
+|---|---|---|---|
+
+| \*\*Skydo\*\* | $19 flat | $1,981 | ₹1,66,404 |
+
+| Wise | \~$36 | $1,964 | ₹1,64,976 |
+
+| PayPal | \~$150 | $1,850 | ₹1,55,400 |
+
+| Bank wire | \~$90 | $1,910 | ₹1,60,440 |
+
+
+
+That's \*\*₹11,000 lost per payment with PayPal\*\* vs Skydo. If you're billing monthly, that's over ₹1.3 lakh a year just... gone.
+
+
+
+\*\*What I like about Skydo:\*\*
+
+\- Flat fee, not percentage-based (massive for larger invoices)
+
+\- Uses live mid-market FX rate, zero forex markup
+
+\- Instant FIRA in your inbox (your CA will thank you)
+
+\- RBI Payment Aggregator authorised
+
+\- Settles in under 24 hours
+
+
+
+\*\*Where it might not fit:\*\*
+
+\- If your client insists on PayPal (some do)
+
+\- Platform-based work (Upwork/Fiverr) where Payoneer is integrated
+
+
+
+I built a savings calculator if you want to plug in your own invoice amount and see your specific savings: [https://join.skydo.com/ganesh-shripad](https://join.skydo.com/ganesh-shripad)
+
+
+
+Happy to answer questions. What are others using for USD/GBP/AUD payments?",https://reddit.com/r/u_PlanSad1094/comments/1t89dow/i_calculated_exactly_how_much_paypal_wise_and/,,,,,,,,,,,,False,False,False,
+reddit,2026-05-07,ZealousidealCancel20,,"Indian founders: what’s your current setup for receiving USD payments? Hey! I am curious what everyone here is using these days for international payments.
+
+Wise? Payoneer? Razorpay? Skydo? Stripe via US entity? Frexpay? Something else?
+
+How has your experience been in terms of:
+
+* fees
+* FX rates
+* payment success rate
+* compliance / FIRC stuff
+* support when something goes wrong
+
+Would love to hear real setups people are using right now.",https://reddit.com/r/StartUpIndia/comments/1t66lv9/indian_founders_whats_your_current_setup_for/,,,,,,,,,,,,False,False,False,
+reddit,2026-05-06,Overall-Possible-936,,"How do you onboard an independent contractor without legal headaches and delays? A lot of companies think contractor onboarding is just:
+
+sign agreement → send payment → done.
+
+That’s usually true for the first few weeks.
+
+I work in payroll and international hiring, and most onboarding problems show up later because the structure wasn’t thought through properly at the start.
+
+The biggest mistake I see is companies treating contractors informally while expecting employee-level commitment.
+
+If someone is truly an independent contractor, the onboarding should reflect that.
+
+A clean contractor onboarding process usually includes:
+
+• a proper contractor/service agreement  
+• clearly defined scope of work  
+• payment terms and invoicing structure  
+• confidentiality and IP ownership clauses  
+• clarity around working relationship expectations
+
+The payment side is actually the easy part now. Tools like Wise or Skydo work fine for cross-border payments.
+
+**The bigger issue is compliance**
+
+If the contractor is working full-time, following company schedules, reporting into managers, and contributing to core business operations, then over time the relationship may stop looking “independent” from a legal perspective.
+
+That’s where companies run into:
+
+• [classification risk](https://www.wisemonk.io/blogs/contractor-misclassification-risk-in-india?utm_source=Reddit&amp;utm_medium=seo&amp;utm_campaign=Reddit_social)  
+• tax exposure  
+• contract disputes later
+
+Another thing that slows onboarding is missing documentation. Companies often move fast on hiring but delay things like signed agreements, tax information, or IP clauses.
+
+That creates friction later when the team grows or due diligence starts happening.
+
+What I’ve noticed is that contractor onboarding works best when companies decide upfront:
+
+Is this genuinely project-based independent work, or is this realistically becoming part of the core team?
+
+That answer usually determines whether the contractor setup will scale cleanly or become a problem later.
+
+Curious how others here are onboarding international contractors today. Fully independent setup, or moving toward more structured models as teams grow?",https://reddit.com/r/IndiaEOR/comments/1t587jj/how_do_you_onboard_an_independent_contractor/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-20,Overall-Possible-936,,"Hiring contractors in India looks easy,until tax and compliance catch up A lot of companies assume hiring contractors in India is the simplest path.
+
+No payroll, no entity, just pay invoices and move on.
+
+I work in payroll and international hiring, and while that setup works on the surface, most teams don’t fully understand how contractors are actually taxed or where the risks come in.
+
+From the contractor’s side, it’s fairly straightforward.
+
+They’re treated as self-employed professionals, which means:
+
+They pay tax on their profits, not just total income  
+They can claim expenses like laptop, internet, workspace, tools  
+In some cases, they can use presumptive taxation, which simplifies filings
+
+So unlike employees, taxes aren’t deducted monthly in the same structured way. Contractors manage their own tax payments, often through advance tax filings during the year.
+
+That part is manageable.
+
+Where things get complicated is on the company side.
+
+The issue isn’t how you pay them, Wise, bank transfer, Skydo, all of that is fine.
+
+# The real question is: how are they working?
+
+If your contractor is:
+
+working full-time with your team  
+following your processes and schedule  
+contributing to core product or revenue
+
+then from a compliance perspective, it may no longer be seen as independent work.
+
+That’s where risks start to build.
+
+One is **misclassification**. Even if contracts say “contractor,” the actual working relationship can override that.
+
+Another is **tax exposure**, specifically something called Permanent Establishment risk. If core business activity is happening from India, authorities may view it as a business presence.
+
+This usually doesn’t show up immediately. It tends to surface later, during audits, fundraising, or acquisitions.
+
+I’ve seen setups run smoothly for a year or more, and then suddenly become a concern when companies start scaling or go through due diligence.
+
+And when it needs fixing, it’s not just paperwork. It can involve backdated taxes, penalties, and restructuring.
+
+This doesn’t mean hiring contractors is wrong. It works well for short-term or clearly independent roles.
+
+But if someone is effectively part of your team, it’s worth thinking about the structure early instead of fixing it later.
+
+&gt;If you want a deeper breakdown of how contractor payments, taxes, and compliance actually work in India, this guide explains it clearly, take your time: [Pay Contractors in India](https://www.wisemonk.io/blogs/contractor-pay-india-guide?utm_source=Reddit&amp;utm_medium=SEO&amp;utm_campaign=Reddit-Post)
+
+Curious how others here are handling contractor setups in India. Still early-stage, or already restructuring as you scale?",https://reddit.com/r/IndiaEOR/comments/1sqkie0/hiring_contractors_in_india_looks_easyuntil_tax/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-17,InevitableFun7589,,"Inward Remittance from Fidelity to India (RSU Sell) Hi, I am planning to do a inward remittance from Fidelity NetBenfits to India. Tell me how can I do at a cheaper rate.
+
+Option 1 - Pay 2.5% conversion fees to fidelity.
+
+Option 2 - Choose to get the money in USD to choose banks like HDFC / ICICI / Canara etc.
+
+Option 3 - Open account in Skydo/RZP/Borderless, Transfer in USD and then get to India (Not sure of the feasibility)
+
+I feel Option 3 would be the cheapest and easiest is feasible.
+
+Q1) Has anyone use 3rd party to route RSU payments in India? If yes how?
+
+Q2) There is a concept of Intemidatedy fees. How to avoid that/ what to take care that it is not charged it can be charged upto 25$?
+
+Q3) Canara Bank / PSU charge a lower Fx. However, there are some documentation feees. Is it applicable for all bank? If only to PSU (canara here). How much?",https://reddit.com/r/fidelityinvestments/comments/1sob7i7/inward_remittance_from_fidelity_to_india_rsu_sell/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-17,InevitableFun7589,,"Inward Remittance from Fidelity (RSU Sell) Hi, I am planning to do a inward remittance from Fidelity NetBenfits to India. Tell me how can I do at a cheaper rate.
+
+Option 1 - Pay 2.5% conversion fees to fidelity.
+
+Option 2 - Choose to get the money in USD to choose banks like HDFC / ICICI / Canara etc.
+
+Option 3 - Open account in Skydo/RZP/Borderless, Transfer in USD and then get to India (Not sure of the feasibility)
+
+I feel Option 3 would be the cheapest and easiest is feasible.
+
+Q1) Has anyone use 3rd party to route RSU payments in India? If yes how?
+
+Q2) There is a concept of Intemidatedy fees. How to avoid that/ what to take care that it is not charged it can be charged upto 25$?
+
+Q3) Canara Bank / PSU charge a lower Fx. However, there are some documentation feees. Is it applicable for all bank? If only to PSU (canara here). How much?",https://reddit.com/r/personalfinance/comments/1sob69y/inward_remittance_from_fidelity_rsu_sell/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-17,InevitableFun7589,,"Inward Remittance from Fidelity Account Hi, I am planning to do a inward remittance from Fidelity NetBenfits to India. Tell me how can I do at a cheaper rate. 
+
+  
+Option 1 - Pay 2.5% conversion fees to fidelity. 
+
+Option 2 - Choose to get the money in USD to choose banks like HDFC / ICICI / Canara etc. 
+
+Option 3 - Open account in Skydo/RZP/Borderless, Transfer in USD and then get to India (Not sure of the feasibility)
+
+I feel Option 3 would be the cheapest and easiest is feasible.
+
+Q1) Has anyone use 3rd party to route RSU payments in India? If yes how? 
+
+Q2) There is a concept of Intemidatedy fees. How to avoid that/ what to take care that it is not charged it can be charged upto 25$?
+
+Q3) Canara Bank / PSU charge a lower Fx. However, there are some documentation feees. Is it applicable for all bank? If only to PSU (canara here). How much?",https://reddit.com/r/IndiaTax/comments/1sob3fa/inward_remittance_from_fidelity_account/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-15,Unusual_Fix9346,,"Tax for Remote workers on a Germany based company. I have been recently hired by a German-based company and am contracted through remote.com. So my salary is 2.5k USD per month, and the company pays me through remote.com.
+
+how will be my taxes and all? How much should I be putting aside for taxes and all?
+
+For the record, the industry is software development.
+
+edit: also, what about GST? I'm new to these whole tax situation, that's why these questions :)
+
+till now I've had only experience with small freelance works
+
+  
+edit 2: my friend told me to use skydo for international payments. The actual payment flow is:
+
+1. [remote.com](http://remote.com) pays to an American-based account, which I got from skydo.
+2. skydo transfers it to my Indian bank account.
+
+I think I'm getting better forex rates through this. 
+
+  
+so I need to know if it's okay also",https://reddit.com/r/IndiaTax/comments/1sm056v/tax_for_remote_workers_on_a_germany_based_company/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-06,ayushopchauhan,,"[For Hire] I build AI automation systems that actually run in production. Not tutorials. Not demos. Real client systems processing real data right now. Next.js, Python, n8n, OpenAI. $30/hr or fixed. Last month a client sent me a URL and asked for an AI-powered UX audit tool.
+
+
+
+I delivered it in under 24 hours. It scrapes any website, runs every page through OpenAI Vision, and generates a branded PDF report with specific fixes. He paid $500 and asked for two more projects the same week.
+
+
+
+That's how I work. You tell me what you need, I build it fast, and it actually works in production.
+
+
+
+\## 9 systems I built that are live right now
+
+
+
+1. \*\*AI Proposal Generator\*\* — enter a URL, get a full branded proposal in 47 seconds. Tracks every scroll, click, and section view. Sends a session intelligence report to Telegram when the prospect leaves.
+
+
+
+2. \*\*45-Gmail Inbox Pipeline\*\* — monitors 45 email accounts, classifies every reply with AI, generates draft responses, sends them to Telegram with Send / Edit / Skip buttons. Processes hundreds of emails daily without touching a single one manually.
+
+
+
+3. \*\*AI Sales Assistant\*\* — chatbot embedded on client-facing pages that knows the business inside out, handles objections, and pushes toward booking a call. Not a generic chatbot widget. Custom-built, context-aware.
+
+
+
+4. \*\*Automated Website Generator\*\* — one command: URL in, full responsive website out in 60 seconds. 15 React components, 4 interactive calculators, SEO meta tags, ready to deploy.
+
+
+
+5. \*\*Lead Enrichment Pipeline\*\* — scrape, verify, score, and route leads automatically. Integrates with Google Sheets, Supabase, Instantly.
+
+
+
+6. \*\*Follow-Up Engine\*\* — daily cron finds leads going cold, writes a psychology-informed follow-up draft, sends to Telegram with action buttons. Nobody falls through the cracks.
+
+
+
+7. \*\*Session Intelligence\*\* — tracks prospect behavior across every page, compiles engagement scores, delivers a full report the second they close the tab.
+
+
+
+8. \*\*CRM Automation\*\* — syncs pipeline data across 6 Google Sheets tabs daily. Dashboard, activity log, reply tracking, revenue forecasting. Zero manual entry.
+
+
+
+9. \*\*UX Audit Workflow\*\* — the one from the story above. Multi-page, vision-powered, branded output.
+
+
+
+You can see some of these live at \*\*ayushopchauhan.com\*\*
+
+
+
+\## Stack
+
+
+
+Next.js 16 · TypeScript · Python · Supabase · OpenAI · n8n · Vercel · Telegram Bot API · Gmail API · Twilio · [Cal.com](http://Cal.com)
+
+
+
+\## What this means for you
+
+
+
+If your project involves any combination of:
+
+
+
+→ AI / LLMs (chatbots, content generation, data extraction, agents)
+
+→ Automation (n8n, webhooks, crons, email pipelines, Zapier replacement)
+
+→ Full-stack web apps (Next.js + Supabase + auth + payments)
+
+→ Internal tools, dashboards, CRMs
+
+→ Scraping, lead gen, data processing
+
+→ Bots (Telegram, Slack, Discord)
+
+→ API integrations (connect system A to system B)
+
+
+
+I can build it. Probably faster than you expect.
+
+
+
+\## How I work
+
+
+
+\- You describe what you need. I tell you honestly if I can do it, how long it takes, and what it costs. No vague ""it depends.""
+
+\- I ship something you can see within the first 2-3 days. Not wireframes. Working code.
+
+\- Weekly check-ins. You see progress every week, not just at the end.
+
+\- \*\*You don't pay for the first milestone until you've seen it working.\*\* If it's not what you wanted, you owe me nothing.
+
+
+
+\## Rate
+
+
+
+$30/hr for ongoing work. Fixed pricing for defined projects (most of my projects land between $200 and $2,000 depending on scope).
+
+
+
+Weekly payments. PayPal or Skydo.
+
+
+
+\## Availability
+
+
+
+Available to start today. 30-40 hrs/week. I'm in IST but I've worked US hours before (did it at Revolut for over a year). Timezone is not an issue.
+
+
+
+DM me what you need. Even if it's vague. I'll send you back a clear scope with timeline and price within a few hours.",https://reddit.com/r/forhire/comments/1sdyyi2/for_hire_i_build_ai_automation_systems_that/,,,,,,,,,,,,False,False,False,
+reddit,2026-04-03,Dazzling-Ad-8476,,"How to send money from India to US I need to pay freelancers based in USA, I receive payment from USA via Skydo but how do I send money from India to US?",https://reddit.com/r/IndianEntrepreneur/comments/1sbgi6r/how_to_send_money_from_india_to_us/,,,,,,,,,,,,False,False,False,
+reddit,2026-03-26,dyt-coke,,"First freelance client, but confused about Wise India's current restrictions and alternatives? I’m about to land my first freelance client (huge milestone for me!), but I’m stuck on the payment logistics. I’ve seen Wise recommended everywhere, but after some research, I’m seeing that Indian users won't be able to receive/hold funds in the same way after April 5th.
+Additionally, I’m a bit confused about the Business Account charges and whether it's even worth setting up right now given the current regulatory environment in India.
+A few specific questions for the community:
+Is it still possible for a new Indian freelancer to sign up and receive international payments via Wise, or is that ""on hold""?
+For those in India, are you moving to alternatives like Payoneer, Skrill, or PayPal (despite the high fees)?
+Has anyone tried Skydo or Winvesta? I’ve heard they are more ""India-friendly"" for freelancers lately.
+If I do go with Wise, is the Business Account fee a one-time thing or recurring?
+
+I’d love to hear how other Indian freelancers are handling international transfers this month",https://reddit.com/r/Freelancers/comments/1s4iugc/first_freelance_client_but_confused_about_wise/,,,,,,,,,,,,False,False,False,
+reddit,2026-03-26,main_toh_raste_se_ja,,"First freelance client, but confused about Wise India's current restrictions and alternatives? I’m about to land my first freelance client (huge milestone for me!), but I’m stuck on the payment logistics. I’ve seen Wise recommended everywhere, but after some research, I’m seeing that Indian users won't be able to receive/hold funds in the same way after April 5th.
+
+Additionally, I’m a bit confused about the Business Account charges and whether it's even worth setting up right now given the current regulatory environment in India.
+
+A few specific questions for the community:
+
+Is it still possible for a new Indian freelancer to sign up and receive international payments via Wise, or is that ""on hold""?
+
+For those in India, are you moving to alternatives like Payoneer, Skrill, or PayPal (despite the high fees)?
+
+Has anyone tried Skydo or Winvesta? I’ve heard they are more ""India-friendly"" for freelancers lately.
+
+If I do go with Wise, is the Business Account fee a one-time thing or recurring?
+
+I’d love to hear how other Indian freelancers are handling international transfers this month. Thanks in advance!",https://reddit.com/r/transferwiser/comments/1s4d2kn/first_freelance_client_but_confused_about_wise/,,,,,,,,,,,,False,False,False,
+reddit,2026-03-11,tattva-trans,,"HELP how to get payment from malaysian client into my indian bank So what si the most low fees method to get payment of 200 usd equivalent from my malaysian client into my indian bank
+
+As right now I checked it showed me 20usd fees per transaction as it have reroute my money first mrom Malaysia to usd account then usd to my indian account in wise
+Paypal had way too much fees, skydo and infinity also have problem as wise",https://reddit.com/r/personalfinanceindia/comments/1rr421z/help_how_to_get_payment_from_malaysian_client/,Negative,User is frustrated with high fees and rerouting of payments,high fees | rerouting of payments,20usd fees per transaction,,Medium,strong frustration with fees,P3,UX issue with fees,Review and optimize fee structure,User is looking for low-fee payment method,False,True,False,"Wise, PayPal, Infinity"
+reddit,2026-03-11,tattva-trans,,"How to accept payments ?? So I am working as freelancer in india and first time working with foreign clients from Malaysia. 
+The problem comes when deciding the payment partner or platform to choose. 
+The platform i have checked
+Paypal
+Infinityapp
+Skydo
+Wise
+Payoneer 
+
+All have the same problem as client can't send money from Malaysia to inr, it have first be converted from Malaysian ringgit to usd (in a bank account) then converted from there to transferred to me. But this introduces 15 to 20 % fees so example each week i will recieve 200usd or 18.4krs but for each transaction it will take 20usd or 1.8k from it.
+
+Are there any platform or payment system i never found ro checked 
+Please help as I don't want to pay such high fees",https://reddit.com/r/Freelancers/comments/1rr3jhz/how_to_accept_payments/,Negative,User is frustrated with high fees and conversion issues,high fees | conversion issues,15 to 20 % fees,,Medium,strong frustration with fees,P3,UX issue with fees,Review and optimize fee structure,User is looking for low-fee payment method,False,True,False,"Paypal, Infinityapp, Wise, Payoneer"
+reddit,2026-03-09,Free-Fly-3671,,"Best payment gateway for freelancers in India ? Hello everyone, I am looking for best payment gateway to receive payments from USD,EUR,CAD,etc. into INR. I don't have any business documents as I am working as freelancer.
+
+  
+That platform should provide eFRCA or eFIRA,less transaction fees,and good reviews.
+
+  
+I heard that infinityapp and skydo are holding payments and they are spammy.
+
+  
+Please help me with this...",https://reddit.com/r/FreelanceIndia/comments/1rowfzb/best_payment_gateway_for_freelancers_in_india/,Negative,User is concerned about holding payments and spammy behavior,holding payments | spammy behavior,,,High,user is considering switching due to trust issues,P1,security issue with holding payments,Address trust and security concerns,User is concerned about trust and security,False,False,True,Infinityapp
+reddit,2026-03-09,Bendy_River,,"If you're a Product Manager with 4+ years of experience, this might be the role you’ve been waiting for. Skydo is hiring a Product Manager to build products simplifying cross-border payments for Indian businesses.  
+  
+Apply on [GetInStartups.com](http://getinstartups.com/)",https://reddit.com/r/GetInstartups/comments/1rorpz5/if_youre_a_product_manager_with_4_years_of/,Neutral,"Job posting, no review of product",,,,Low,,P4,general praise,,"Job posting, no review of product",False,False,False,
+reddit,2026-03-06,Aromatic-Locksmith50,,"Any review on Skydo It’s my first time doing an export, shipping furniture from India to Australia.
+
+Bank told me the only valid legit way to get money is via Bank Swift transfer where they are charging ₹1.5 per AUD + 30 AUD transfer fee. They say we get money using service like Remitly/Wise , I will not be able to get FIRC and BRC and hence won’t be able to close my export on DGFT.
+
+I came across this platform called Skydo. They say they do txn at 0 conversion charge but flat payment fee. Don’t know if it’s safe or not since it is my first export and amount is quite decent.
+
+Any guidance would be greatly appreciated.",https://reddit.com/r/exportersindia/comments/1rmhr4z/any_review_on_skydo/,Negative,User is concerned about safety and legitimacy of Skydo,safety | legitimacy,,,High,user is considering switching due to trust issues,P1,security issue with safety and legitimacy,Address trust and security concerns,User is concerned about trust and security,False,False,True,"Remitly, Wise"
